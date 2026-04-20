@@ -52,3 +52,11 @@ This research work was independently completed by 李烜 (Xuan Li), a master's s
 
 ## Status
 This repository is used to present the research topic, abstract, keywords, and related public information of the work.
+
+## Related Links
+- [Personal Website](https://lx7120.github.io/)
+- [Research Page](https://lx7120.github.io/paper/)
+- [Resume Page](https://lx7120.github.io/resume/)
+- [FAQ](https://lx7120.github.io/faq/)
+- [GitHub Profile README Repository](https://github.com/LX7120/LX7120)
+- [GitHub Profile](https://github.com/LX7120)
