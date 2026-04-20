@@ -60,3 +60,6 @@ This repository is used to present the research topic, abstract, keywords, and r
 - [FAQ](https://lx7120.github.io/faq/)
 - [GitHub Profile README Repository](https://github.com/LX7120/LX7120)
 - [GitHub Profile](https://github.com/LX7120)
+
+## Additional File
+- [Abstract Text](./abstract.txt)
