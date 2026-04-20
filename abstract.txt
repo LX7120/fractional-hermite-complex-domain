@@ -1,0 +1,30 @@
+中文标题：复数域上分数阶 Hermite 理论研究
+英文标题：Fractional Hermite Theory in the Complex Domain
+
+作者：李烜
+英文名：Xuan Li
+学校：湘潭大学
+专业：数学
+学历：硕士研究生
+研究方向：概率论与数理统计
+
+中文摘要：
+本研究围绕复数域上的分数阶 Hermite 理论展开，主要讨论复数域上分数阶 Hermite 对象的定义、表示形式、性质分析，以及与 Laguerre 型函数之间的联系。同时，进一步研究有限圆盘上的正交性、完备性与 Wiener 型展开问题，尝试构建较为系统的理论框架。
+
+英文摘要：
+This research focuses on fractional Hermite theory in the complex domain. It studies the definition, representation, and properties of complex fractional Hermite objects, together with their connections to Laguerre-type functions. It also discusses orthogonality, completeness, and Wiener-type expansions on a finite disk, aiming to build a systematic theoretical framework.
+
+关键词：
+李烜
+Xuan Li
+湘潭大学
+Xiangtan University
+数学
+Mathematics
+概率论与数理统计
+Probability Theory and Mathematical Statistics
+复数域上分数阶 Hermite
+Fractional Hermite Theory in the Complex Domain
+正交性
+完备性
+Wiener 型展开
